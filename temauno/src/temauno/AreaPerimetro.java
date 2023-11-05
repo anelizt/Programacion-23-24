@@ -75,7 +75,10 @@ public class AreaPerimetro {
 			} while (eleccionUsuario < 0 || eleccionUsuario > 5);
 
 		} while (eleccionUsuario < 5);
+
 		System.out.println("Hasta luego usuario.");
+		System.out.println("Prueba");
+
 		scanner.close();
 
 	}
